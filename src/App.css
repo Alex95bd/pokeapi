@@ -1,0 +1,33 @@
+.App {
+  text-align: left;
+}
+body {
+  background-image: url("https://cdnb.artstation.com/p/assets/images/images/028/009/077/large/osian-r-vaquero-pokeball-3d-cinema-4d-by-osian-r-vaquero.jpg?1593205906");
+  background-size: 100%;
+}
+
+.divTableCell,
+.divTableHead {
+  display: table-cell;
+  padding: 10px 3px;
+}
+
+.container {
+  display: flex;
+  opacity: 0.9;
+  justify-content: left;
+}
+
+img {
+  height: 20em;
+}
+
+input {
+  inset-block-end: 3px;
+  box-sizing: border-box;
+  width: 200%;
+  height: 50%;
+  font-size: 1rem;
+  margin: 2rem auto;
+
+}
